@@ -1,4 +1,4 @@
-Desafio concluído com o codigo 100% meu, infelizmente ainda não acertei no uso dos laçõs de repetição, mas acredito que o desafio proposto foi concluído da mesma forma. Vou continuar me dedicando para coseguir fazer sem faltar nenhum dos itens que devem ser utilizados.
+Desafio concluído com o codigo 100% meu, infelizmente ainda não acertei no uso dos laços de repetição, mas acredito que o desafio proposto foi concluído da mesma forma. Vou continuar me dedicando para coseguir fazer sem faltar nenhum dos itens que devem ser utilizados.
 
 --------*DESAFIO DO FELIPÃO DA DIO*---------------
 
